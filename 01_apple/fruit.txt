@@ -1,1 +1,3 @@
-An apple a day leaves a doctor away.
+containing the text
+apple
+into that file
