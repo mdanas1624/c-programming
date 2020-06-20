@@ -1,0 +1,17 @@
+Grading at Sat Jun 20 16:58:01 UTC 2020
+Checking code1.c for legal syntax
+Checking for int max (int num1, int num2)
+Found on line 6, column 1 
+Checking for int main(void)
+Found on line 18, column 1 
+Trying to run the code..
+Line_1_did_not_match
+Line_2_did_not_match
+Line_3_did_not_match
+Your file did not match the expected ouput
+Here is what you printed
+42max(42, -69) is 42
+33max(33, 0) is 33
+1193046max(0x123456, 123456) is 1193046
+
+Overall Grade: F
